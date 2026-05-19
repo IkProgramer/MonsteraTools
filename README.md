@@ -82,7 +82,7 @@ Dołącz do naszego Discorda po pomoc, ogłoszenia o aktualizacjach i listę wsp
 
 <div align="center">
 
-*Ultra Black UI – minimalistyczny, ciemny interfejs zaprojektowany z myślą o graczach.*
+*.*
 
 </div>
 
